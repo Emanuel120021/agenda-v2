@@ -1,0 +1,108 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Miniatura de Metal Retrô Mercedes Benz 500K Black - Verito",
+      "preco": 269.9,
+      "foto": "https://images-americanas.b2w.io/produtos/01/00/img/2677573/6/2677573636_1SZ.jpg"
+    },
+
+    {
+      "id": 2,
+      "nome": "Miniatura Carro Ford Corcel GT (1971) - Amarelo - 1:43 ",
+      "preco": 75.9,
+      "foto": "https://www.minimundi.com.br/cdn/imagens/produtos/det/miniatura-carro-fordcorcel-gt-1971-1-43-ixo-corcel_a.jpeg"
+    },
+
+    {
+      "id": 3,
+      "nome": "Miniatura Carro Chevrolet Kadett GSI Conversível (1992) - Prata - 1:43 ",
+      "preco": 94.9,
+      "foto": "https://www.minimundi.com.br/cdn/imagens/produtos/det/miniatura-carro-chevrolet-kadett-gsi-conversivel-1992-1-43-ixo-130720_a.jpg"
+    },
+
+    {
+      "id": 4,
+      "nome": "Miniatura de Metal Retrô Mercedes Benz 500K Black - Verito",
+      "preco": 269.9,
+      "foto": "https://images-americanas.b2w.io/produtos/01/00/img/2677573/6/2677573636_1SZ.jpg"
+    },
+
+    {
+      "id": 5,
+      "nome": "Miniatura Carro Volkswagen Fusca - Vermelho - 1:24 - Maisto",
+      "preco": 161.4,
+      "foto": "https://www.minimundi.com.br/cdn/imagens/produtos/det/010142-1.jpg"
+    },
+
+    {
+      "id": 6,
+      "nome": "Miniatura Carro Land Rover Range Rover Evoque (2012) - Preto - 1:43 ",
+      "preco": 104.4,
+      "foto": "https://www.minimundi.com.br/cdn/imagens/produtos/det/miniatura-carro-land-rover-range-rover-evoque-2012-1-43-ixo-130741_a.jpg"
+    },
+
+    {
+      "id": 7,
+      "nome": "Miniatura Carro Volkswagen Kombi / Van ",
+      "preco": 161,
+      "foto": "https://www.minimundi.com.br/cdn/imagens/produtos/det/miniatura-carro-volkswagen-kombi-van-samba-verde-e-branco-1-25-maisto_011467-1.jpg"
+    },
+
+    {
+      "id": 8,
+      "nome": "Miniatura Carro Ford Mustang GT (2015) - Azul - 1:24 - Maisto",
+      "preco": 152.91,
+      "foto": "https://www.minimundi.com.br/cdn/imagens/produtos/det/miniatura-carro-ford-mustang-gt-2015-special-edition-1-24-maisto-011042-31508_a.jpg"
+    },
+
+    {
+      "id": 9,
+      "nome": "Miniatura Jipe Jeep Wrangler Rubicon - Azul - 1:18 - Maisto",
+      "preco": 360.9,
+      "foto": "https://www.minimundi.com.br/cdn/imagens/produtos/det/a-4.jpg"
+    },
+
+    {
+      "id": 10,
+      "nome": "Miniatura Moto Honda CBR 1000RR - 1:12 - Maisto",
+      "preco": 113.9,
+      "foto": "https://www.minimundi.com.br/cdn/imagens/produtos/det/miniatura-moto-honda-cbr-1000rr-1-12-maisto_-4011088.jpg"
+    },
+
+    {
+      "id": 11,
+      "nome": "Miniatura Carro Dodge Charger R/T (1969) - Harley Davidson - 1:25 - Maisto",
+      "preco": 189.9,
+      "foto": "https://www.minimundi.com.br/cdn/imagens/produtos/det/miniatura-carro-dodge-charger-rt-1974-harley-davidson-1-25-maisto_011448.jpg"
+    },
+
+    {
+      "id": 12,
+      "nome": "Miniatura Moto Ducati XDiavel S - Preto - 1:18 - Burago",
+      "preco": 56.9,
+      "foto": "https://www.minimundi.com.br/cdn/imagens/produtos/det/img-20210525-wa0036.jpg"
+    },
+
+    {
+      "id": 13,
+      "nome": "Miniatura Carro Ferrari LaFerrari - Race e Play - Vermelho - 1:24 - Burago",
+      "preco": 199.4,
+      "foto": "https://www.minimundi.com.br/cdn/imagens/produtos/det/ferrari-laferrari-race-e-play-1-24-burago-18-26001-070217_a.jpg"
+    },
+
+    {
+      "id": 14,
+      "nome": "Miniatura Caminhão FNM D-9500 Brasinca",
+      "preco": 151.9,
+      "foto": "https://www.minimundi.com.br/cdn/imagens/produtos/det/miniatura-caminhao-fnm-d-9500-brasinca-1-43-ixo_a.jpg"
+    },
+
+    {
+      "id": 15,
+      "nome": "Miniatura Carro Cadillac Eldorado Biarritz (1959) - Rosa - 1:18 - Maisto",
+      "preco": 351.4,
+      "foto": "https://www.minimundi.com.br/cdn/imagens/produtos/det/miniatura-carro-cadillac-eldorado-biarritz-1959-rosa-1-18-maisto-010607_a.jpg"
+    }
+  ]
+}

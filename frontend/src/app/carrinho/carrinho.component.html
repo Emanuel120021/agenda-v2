@@ -1,0 +1,27 @@
+<div class="geral">
+  <div class="card">
+    <mat-card *ngFor="let prod of adicionados" class="card--unity">
+      <mat-card-header>
+        <img class="img" [src]="prod.foto" alt="" />
+        <div class="card--unity--top">
+          <mat-card-title>R$ {{ prod.preco.toFixed(2) }}</mat-card-title>
+          <mat-card-subtitle> Em até 6x sem juros no cartão </mat-card-subtitle>
+        </div>
+      </mat-card-header>
+      <mat-card-content>
+        <p class="nome-prod">{{ prod.nome }}</p>
+      </mat-card-content>
+      <div class="bottom">
+        <button class="button-excluir" mat-button>
+          <img class="icone-exluir" src="../../assets/icons/lixo.svg" alt="" />
+          Excluir do carrinho
+        </button>
+      </div>
+    </mat-card>
+  </div>
+</div>
+
+<div class="carro-vazio" *ngIf="adicionados.length == 0">
+  <h1>O seu carrinho está vazio.</h1>
+  <img class="img-blinking" src="../../assets/img/carrinho-vazio.png" alt="" />
+</div>
